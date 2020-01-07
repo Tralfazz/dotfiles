@@ -3,6 +3,7 @@ acpid
 adwaita-icon-theme
 alsa-firmware
 alsa-utils
+android-tools
 audacity
 autoconf
 automake
@@ -12,10 +13,12 @@ baobab
 bash
 bat
 binutils
+binwalk
 bison
 blender
 bluez-utils
 btrfs-progs
+burpsuite
 bzip2
 chromium
 code
@@ -96,6 +99,7 @@ gnome-user-docs
 gnome-user-share
 gnome-wallpapers
 gnome-weather
+gnu-netcat
 google-chrome
 gparted
 grep
@@ -249,6 +253,7 @@ reiserfsprogs
 roccat-tools-kiro
 rsync
 s-nail
+saleae-logic
 screen
 seahorse
 sed
@@ -259,6 +264,7 @@ spectre-meltdown-checker
 speedtest-cli
 spotify
 steam-manjaro
+stremio-beta
 sudo
 sushi
 sysfsutils
@@ -321,6 +327,7 @@ xfsprogs
 xorg-server
 xorg-twm
 xorg-xinit
+xorg-xkill
 xorg-xprop
 yay
 yelp
