@@ -47,17 +47,14 @@
     "python.pythonPath": "/usr/bin/python2",
     "editor.lineNumbers": "relative",
     
-    // <<< VIM >>>
     "vim.handleKeys": {
-        "<C-a>": false,                 // select all
-        "<C-c>": false,                //  copy
-        "<C-n>": false,               //  new file
-        "<C-d>": false,                // you want to use Ctrl-D in VS Code mode, then vim should not handle this.  You forgot this line in my configuration.
-        "<C-x>": false,               // cut?
-        "<C-y>": false,               // redo
-        // "<C-w>": false              // close the tab
+        "<C-a>": false,            
+        "<C-c>": false,            
+        "<C-n>": false,            
+        "<C-d>": false,            
+        "<C-x>": false,            
+        "<C-y>": false,            
     },
-    // "vim.useCtrlKeys": false,
     "vim.insertModeKeyBindings": [
         {
           "before": [";", ";"],
